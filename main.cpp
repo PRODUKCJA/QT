@@ -2,6 +2,8 @@
 #include <QApplication>
 
 // komentarz1
+// komentarz2
+
 
 int main(int argc, char *argv[])
 {
