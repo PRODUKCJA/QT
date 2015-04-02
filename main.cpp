@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include <QApplication>
 
-// komentarz
+// komentarz1
 
 int main(int argc, char *argv[])
 {
