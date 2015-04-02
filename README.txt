@@ -1,1 +1,1 @@
-test gitProgram do obslugi produkcji
+Program do obslugi produkcji
