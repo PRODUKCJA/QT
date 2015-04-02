@@ -2,6 +2,7 @@
 #include <QApplication>
 
 // komentarz
+// komentarz2
 
 int main(int argc, char *argv[])
 {
