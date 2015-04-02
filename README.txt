@@ -1,1 +1,1 @@
-Program do obs³ugi produkcji
+Program do obslugi produkcji
