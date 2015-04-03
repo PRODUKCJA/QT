@@ -5,7 +5,7 @@
 // komentarz2
 // komentarz4
 // komentarz5
-// komentarz6
+// morda
 
 
 int main(int argc, char *argv[])
