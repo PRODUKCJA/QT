@@ -4,6 +4,7 @@
 // komentarz1
 // komentarz2
 // komentarz4
+// komentarz5
 
 
 
