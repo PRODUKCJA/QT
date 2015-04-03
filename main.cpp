@@ -2,6 +2,7 @@
 #include <QApplication>
 
 // komentarz1
+// komentarz2
 
 
 
